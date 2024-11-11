@@ -1,8 +1,7 @@
 """
 Author: Maika Innocent
 Date: 11/02/2024
-This app accepts student first names and last names  and GPAs, then tests if they qualify for the Dean's List or the Honor Roll. 
-The program will stop processing if 'ZZZ' is entered as the last name.
+This app prompt the user to enter the car information and This program will output the car information as requested in a clean, readable format.
 
 """
 #Creation of a super  class called vehicle
